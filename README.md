@@ -1,0 +1,3 @@
+# generativeNN
+
+## My horror GAN
